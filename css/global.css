@@ -1,3 +1,11 @@
+.fotos{
+	width: 450px;
+}
+.fotos img{
+	width: 450px;
+	height: 400px;
+}
+
 .bg{
 	background: url('../Images/74166.jpg') no-repeat;
 	width: 100%;
